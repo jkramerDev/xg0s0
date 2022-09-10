@@ -1,7 +1,7 @@
 
 public class App {
 
-	//test
+	//test2
 	public static void main(String[] args) {
 		App app = new App();
 		app.process();
